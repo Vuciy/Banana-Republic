@@ -1,7 +1,7 @@
 {
-  "name": "basic-html-page",
+  "name": "banana republic",
   "version": "1.0.0",
-  "description": "a basic page to learn the basics of programming.",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
